@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Github**
 - 💬 Ask me about **Tech**
 - 📫 How to reach me:  
-  [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/micky_mouse.23/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://discord.com/channels/@me)
+  [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/micky_mouse.23/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mugilvannan-p-215559266)
   
 
 ---
