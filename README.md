@@ -24,7 +24,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) 
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
